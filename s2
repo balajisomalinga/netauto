@@ -1,0 +1,15 @@
+# Employee records
+-  martin:
+    name: Ram D'vloper
+    job: Senior Developer
+    skills:
+      - python
+      - perl
+      - pascal
+-  tabitha:
+    name: Tabitha Bitumen
+    job: Developer
+    skills:
+      - lisp
+      - fortran
+      - erlang
